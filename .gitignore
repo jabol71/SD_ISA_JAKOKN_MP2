@@ -1,0 +1,9 @@
+*.o
+*.out
+priority_queue
+
+*.csv
+*.xlsx
+
+.DS_Store
+.claude/
